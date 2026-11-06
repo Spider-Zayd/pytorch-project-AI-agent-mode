@@ -1,0 +1,5 @@
+customtkinter>=5.2.2
+opencv-python
+Pillow
+torch
+torchvision
